@@ -38,7 +38,7 @@ Each folder focuses on a **specific Python concept**, from basic syntax to objec
 
       1> 🐍 Python 3.x or above
 
-      2> 🧰 Any code editor (VS Code, PyCharm, Sublime, etc.)
+      2> 🧰 Any code editor (VS Code, Jupyter Notebook ,PyCharm, Sublime, etc.)
 
 
  🎯 Learning Goals
