@@ -54,9 +54,13 @@ Each folder focuses on a **specific Python concept**, from basic syntax to objec
        
        ** Adding advanced Python topics (NumPy, Pandas, Tkinter...)
 
+       ** DSA with Python to build problem solving ability and logical thinking
+
        ** More exercises and projects
 
        ** Mini real-world Python applications
+
+      
 
 
 🤝 Contributing
